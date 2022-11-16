@@ -1,11 +1,11 @@
 # Nombre completo
-name: "David  Sanchez Baez"
+name: "David Sanchez Baez"
  
 # Apodo, o sólo cómo te gusta que te digan
-nickname: "David "
+nickname: "David"
  
 # Saludo inicial antes de tu apodo
-greeting: "Hola, yo soy david"
+greeting: "Hola,yo soy david"
  
 # Imagen de ti
 image: "images/author/profile.png"
@@ -23,7 +23,7 @@ contactInfo:
 # Descripción de ti
 summary:
   - Soy un Científico de Datos
-  - Soy un ...
-  - Soy un ...
-  - Soy un ...
+  - Soy un dadsadsa
+  - Soy un dasdada a
+  - Soy un dasad2
   - Soy un ...
