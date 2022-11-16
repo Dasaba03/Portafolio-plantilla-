@@ -25,19 +25,19 @@ buttons:
  
 # Proyectos
 projects:
-- name: Nombre del proyecto 1
+- name: creacion de una montaña rusa
   logo: /images/projects/proyecto1.png #Logo del proyecto
   role: Professional 
   timeline: "2022" #Año
-  summary: "Resumen del proyecto" #Descripción del proyecto
+  summary: "animacion de una montaña rusa para la creacion de la misma con las medidas exactas para lo que pide el usuario" #Descripción del proyecto
   url: "https://youtu.be/3Cey1PUhGBg" #Link del proyecto
   tags: ["Professional","Python"] #Etiquetas del proyecto
  
-- name: Nombre del proyecto 2
+- name: Comprarme una moto
   logo: /images/projects/proyecto2.png #Logo del proyecto
   role: Personal
   timeline: "2022" #Año
-  summary: "Resumen del proyecto" #Descripción del proyecto
+  summary: "la necesidad de un vehiculo para mi uso personal para ahorrar tiempo en las actividades y poder aporvechar el timepo sobrante para descanso " #Descripción del proyecto
   repo: "Link" #Link del repositorio de github del proyecto
-  tags: ["Personal","R","Machine Learning" ] #Etiquetas del proyecto
+  tags: ["Personal"] #Etiquetas del proyecto
 
