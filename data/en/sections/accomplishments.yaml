@@ -10,19 +10,19 @@ section:
 # Tus cursos
 accomplishments:
  
-- name: "Curso 1" #Nombre del curso
+- name: "parrilla argentina" #Nombre del curso
   timeline: "2022" #Año
   organization:
-    name: Coursera #Nombre de la organización que da el curso
+    name: Superior de gastronomia #Nombre de la organización que da el curso
     url: "https://es.coursera.org/" #link de la organización
-  courseOverview: "Descripción del curso" #Descripción
+  courseOverview: "Curso de 3 bloques para cocinar carnes y mariscos con diferentes recetas y de diversas maneras con el toque del fogon " #Descripción
   certificateURL: "https://mx.coursera.org/" #Link del certificado
  
-- name: "Curso 2" #Nombre del curso
+- name: "Curso de c++ " #Nombre del curso
   timeline: "2022" #Año
   organization:
     name: Coursera #Nombre de la organización que da el curso
     url: "https://es.coursera.org/" #link de la organización
-  courseOverview: "Descripción del curso" #Descripción
+  courseOverview: "Curso semi intensivo del lenguaje de programacion c++ para manejo de informacion y objetos " #Descripción
   certificateURL: "files/certificado.pdf" #Ruta del certificado
 
