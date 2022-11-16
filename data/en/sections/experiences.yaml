@@ -9,16 +9,16 @@ section:
 # Tus experiencias
 experiences:
 - company:
-    name: Nombre Compañia.
+    name: rudy´s.
     url: "link"
     overview: "Descripción."
   positions:
-  - designation: Puesto
-    start: Jan 2022 
+  - designation: Mesero
+    start: sept 2022 
     responsibilities:
-    - Responsabilidad 1
-    - Responsabilidad 2
-    - Responsabilidad 3
+    - atencion al cliente
+    - Repartidor
+    - Cocina 
     - Responsabilidad 4
  
 - company:
