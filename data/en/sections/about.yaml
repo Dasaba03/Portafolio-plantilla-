@@ -8,7 +8,7 @@ section:
   template: sections/about.html
  
 # Tu puesto / Tu semestre
-designation: Engineering in Data Science and Maths
+designation: Ingeniero en sistemas computacionales 
  
 # Información de tu compañía / Escuela
 company:
@@ -19,8 +19,7 @@ company:
 resume: "files/cv.pdf"
  
 # Resumen de ti
-summary: "Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga."
- 
+summary: "Bueno no pierdo el tiempo en la escuela mira ya se como hacer una pagina web a medias por medio de una plantilla y modificarla "
 # Links a redes sociales
 socialLinks:
 - name: Github
@@ -33,7 +32,7 @@ socialLinks:
  
 - name: Email
   icon: "fas fa-envelope"
-  url: "correo@gmail.com"
+  url: "A016798202@tec.mx"
  
 # Insignias de hard skills y soft skills
 badges:
