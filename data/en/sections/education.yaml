@@ -8,7 +8,7 @@ section:
   showOnNavbar: true
  
 degrees:
-- name: Engineering in Data Science and Maths
+- name: ingenieria en sistemas computacionales 
   icon: fa-graduation-cap
   timeframe: 2020-2024
   institution:
@@ -28,7 +28,7 @@ degrees:
   icon: fa-university
   timeframe: 2017-2020
   institution:
-    name: Prepa Tec campus Estado de México
+    name: indoamericano preparatoria 
     url: "Link"
   grade: 
     scale: Average Score
