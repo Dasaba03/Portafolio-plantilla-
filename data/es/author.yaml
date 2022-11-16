@@ -1,19 +1,19 @@
 # Nombre completo
-name: "Nombre Apellido1 Apellido2"
+name: "David  Sanchez Baez"
  
 # Apodo, o sólo cómo te gusta que te digan
-nickname: "Nombre"
+nickname: "David "
  
 # Saludo inicial antes de tu apodo
-greeting: "Hola, yo soy"
+greeting: "Hola, yo soy david"
  
 # Imagen de ti
 image: "images/author/profile.png"
  
 # Información de contacto
 contactInfo:
-  email: "correo@gmail.com"
-  phone: "5512345678"
+  email: "a01798202@tec.mx"
+  phone: "5572160181"
   linkedin:
     icon: linkedin
     url: "link de linkedin"
