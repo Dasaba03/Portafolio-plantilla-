@@ -8,7 +8,7 @@ section:
   template: sections/about.html
  
 # Tu puesto / Tu semestre
-designation: Ingeniero en sistemas computacionales 
+designation: Ingeniero en Sistemas Computacionales 
  
 # Información de tu compañía / Escuela
 company:
@@ -19,16 +19,16 @@ company:
 resume: "files/cv.pdf"
  
 # Resumen de ti
-summary: "Bueno no pierdo el tiempo en la escuela mira ya se como hacer una pagina web a medias por medio de una plantilla y modificarla "
+summary: "Soy una persona que le encanta aprender nuevas habilidades, amante de la programacion y brindar apoyo a quienes buscan mas conocimiento mientras me divierto en el proceson"
 # Links a redes sociales
 socialLinks:
 - name: Github
   icon: "fab fa-github"
-  url: "Link github personal"
+  url: "https://github.com/Dasaba03" 
  
 - name: Linkedin
   icon: "fab fa-linkedin"
-  url: "Link linkedin personal"
+  url: "https://www.linkedin.com/in/david-sanchez-255097278/"
  
 - name: Email
   icon: "fas fa-envelope"
